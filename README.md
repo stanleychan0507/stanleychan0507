@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 Hi I am Stanley
-Bsc Computer Science student at UBC Okanagan
-Main focus in machine learning algorithm
-Working on a Tensorflow project, free to collaborate
+Bsc Computer Science student at UBC Okanagan <br/>
+Main focus in machine learning algorithm <br/>
+Working on a Tensorflow project <br/>
 
 <!--
 **stanleychan0507/stanleychan0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
