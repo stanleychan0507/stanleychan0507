@@ -1,9 +1,14 @@
-### Hi there <img src="https://raw.githubusercontent.com/stanleychan0507/stanleychan0507/master/wave.gif" width="30px" height="30px" />
+# Hi there <img src="https://raw.githubusercontent.com/stanleychan0507/stanleychan0507/master/wave.gif" width="30px" height="30px" />
 
-Hi I am Stanley
-Bsc Computer Science student at UBC Okanagan <br/>
-Main focus in machine learning algorithm <br/>
-Working on a Tensorflow project <br/>
+Hi I am Stanley :grinning:
+- Bsc Computer Science student at UBC Okanagan <br/>
+- Main focus in machine learning algorithm <br/>
+- Working on a Tensorflow project <br/>
+
+## Some of my experience :
+- Web Programming : HTML, CSS, PHP, XML
+- Database : MySQL, MongoDB, PostgreSQL, Snowflakes
+
 
 <!--
 **stanleychan0507/stanleychan0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
