@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/stanleychan0507/stanleychan0507/master/wave.gif" width="30px" height="30px" />
 
-Hi I am Stanley :grinning:
+Hi I am Stanley
 - Bsc Computer Science student at UBC Okanagan <br/>
 - Main focus in machine learning algorithm <br/>
 - Working on a Tensorflow project <br/>
