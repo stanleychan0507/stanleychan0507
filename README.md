@@ -2,11 +2,11 @@
 
 Hi I am Stanley
 - Bsc Computer Science student at UBC Okanagan <br/>
-- Main focus in machine learning algorithm <br/>
-- Working on a Tensorflow project <br/>
+- Main focus in web-development, software engineering. <br/>
+- Working on personal ReactJS project <br/>
 
 ## Some of my experience :
-- Web Programming : HTML, CSS, PHP, XML
+- Web Programming : ReactJS, HTML, CSS, PHP, XML
 - Database : MySQL, MongoDB, PostgreSQL, Snowflakes
 
 
